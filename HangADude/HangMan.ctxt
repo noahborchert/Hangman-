@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=HangMan
+comment0.text=\n\ The\ central\ hub\ of\ hanging\ dudes.\n\n\ @Noah\ Borchert\n\ @v1\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=u
+comment2.target=boolean\ underscoreCheck(char[])
+comment3.params=
+comment3.target=java.lang.String\ titleIntro()
+comment4.params=
+comment4.target=java.lang.String\ printHang()
+comment5.params=dotAmount
+comment5.target=void\ delayDots(int)
+comment6.params=
+comment6.target=void\ delayDots()
+comment7.params=
+comment7.target=void\ clearScreen()
+numComments=8
